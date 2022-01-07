@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Uniswap",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/uniswap.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Sushiswap",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/sushiswap.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Cowswap",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/cowswap.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Matcha",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/matcha.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Sudoswap",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/sudoswap.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Hop",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/hop.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Aave",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/aave.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Compound",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/compound.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Zora",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/zora.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Opensea",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/opensea.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "Rarible",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/rarible.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "ENS",
+    "subtitle": "Short tagline goes here",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/ens.png",
+    "tags": { "tag1": "Essentials" },
+    "chains": { "chain1": "Ethereum" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  }
+]

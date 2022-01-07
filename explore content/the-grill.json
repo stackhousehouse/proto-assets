@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Avalanch staking",
+    "subtitle": "Now you can stake AVAX in-app in a tap!",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/avax.png",
+    "tags": { "tag": "New" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  },
+  {
+    "title": "NEAR staking - coming soon",
+    "subtitle": "Get ready for NEAR",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/explore-screen/near.png",
+    "tags": { "tag": "Coming soon" },
+    "body": "Founded in June 2021 by 0xMurloc and Cryptofish. The origins of Trader Joe were born from a blended desire, to create a unique and truly innovative trading platform that would resonate with the emerging superiority of the Avalanche blockchain, whilst also serving a global and burgeoning audience at the frontier of the decentralised finance industry.Since launching, the platform has attracted over $4bn in assets and has gained backing from some of the most widely recognised investors in the industry."
+  }
+]

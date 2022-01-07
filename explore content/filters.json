@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Everything",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/steakwallet-shiny-square.gif"
+  },
+  {
+    "title": "Ethereum",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/ethereum.png"
+  },
+  {
+    "title": "Avalanche",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/avalanche.png"
+  },
+  {
+    "title": "Solana",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/solana.png"
+  },
+  {
+    "title": "Terra",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/terra.png"
+  },
+  {
+    "title": "Cosmos",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/cosmos.png"
+  },
+  {
+    "title": "BSC",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/binance.png"
+  },
+  {
+    "title": "Arbitrum",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/arbitrum.png"
+  },
+  {
+    "title": "Polygon",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/polygon.png"
+  },
+  {
+    "title": "Fantom",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/fantom.png"
+  },
+  {
+    "title": "Optimism",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/optimism.png"
+  },
+  {
+    "title": "Near",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/near.png"
+  },
+  {
+    "title": "Harmony",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/harmony.png"
+  },
+  {
+    "title": "Tezos",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/tezos.png"
+  },
+  {
+    "title": "Celo",
+    "image": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/explore-screen/celo.png"
+  }
+]
