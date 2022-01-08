@@ -1,0 +1,16 @@
+[
+  {
+    "token": "stETH",
+    "tokenImage1": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/tokens/stETH.png",
+    "apy": "3.77%",
+    "chain": "Ethereum",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/ethereum.png"
+  },
+  {
+    "token": "xSUSHI",
+    "tokenImage1": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/tokens/xSUSHI.png",
+    "apy": "8.17%",
+    "chain": "Ethereum",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/ethereum.png"
+  }
+]

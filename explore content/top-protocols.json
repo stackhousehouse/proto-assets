@@ -1,0 +1,37 @@
+[
+  {
+    "token": "Curve (CRV)",
+    "tokenImage1": "https://defillama.com/_next/image?url=%2Ficons%2Fcurve.jpg&w=48&q=75",
+    "tvl": "$22.9b",
+    "chain": "Ethereum",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/ethereum.png"
+  },
+  {
+    "token": "Convex Finance (CVX)",
+    "tokenImage1": "https://defillama.com/_next/image?url=%2Ficons%2Fconvex-finance.jpg&w=48&q=75",
+    "tvl": "$19.52b",
+    "chain": "Ethereum",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/ethereum.png"
+  },
+  {
+    "token": "MakerDAO (MKR)",
+    "tokenImage1": "https://defillama.com/_next/image?url=%2Ficons%2Fmakerdao.jpg&w=48&q=75",
+    "tvl": "$15.97b",
+    "chain": "Ethereum",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/ethereum.png"
+  },
+  {
+    "token": "AAVE (AAVE)",
+    "tokenImage1": "https://defillama.com/_next/image?url=%2Ficons%2Faave.jpg&w=48&q=75",
+    "tvl": "$12.81b",
+    "chain": "Ethereum",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/ethereum.png"
+  },
+  {
+    "token": "WBTC (WBTC)",
+    "tokenImage1": "https://defillama.com/_next/image?url=%2Ficons%2Fwbtc.jpg&w=48&q=75",
+    "tvl": "$10.96b",
+    "chain": "Ethereum",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/ethereum.png"
+  }
+]

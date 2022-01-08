@@ -1,0 +1,42 @@
+[
+  {
+    "token": "Near Protocol",
+    "price": "$17.03",
+    "tokenImage1": "https://assets.coingecko.com/coins/images/10365/small/near_icon.png?1601359077",
+    "movement": "23.77",
+    "chain": "Ethereum",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/ethereum.png"
+  },
+  {
+    "token": "Fantom",
+    "price": "$2.91",
+    "tokenImage1": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016",
+    "movement": "19.41",
+    "chain": "Fantom",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/fantom.png"
+  },
+  {
+    "token": "Curve DAO Token",
+    "price": "$6.70",
+    "tokenImage1": "https://assets.coingecko.com/coins/images/12124/small/Curve.png?1597369484",
+    "movement": "14.21",
+    "chain": "Ethereum",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/ethereum.png"
+  },
+  {
+    "token": "RavenCoin",
+    "price": "$0.1155",
+    "tokenImage1": "https://assets.coingecko.com/coins/images/20679/small/lyd_%281%29.png?1637551005",
+    "movement": "13.84",
+    "chain": "Fantom",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/fantom.png"
+  },
+  {
+    "token": "Secret",
+    "price": "$6.51",
+    "tokenImage1": "https://assets.coingecko.com/coins/images/11871/small/Secret.png?1595520186",
+    "movement": "12.31",
+    "chain": "Cosmos",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/cosmos.png"
+  }
+]
