@@ -2,10 +2,10 @@
   {
     "token": "Near Protocol",
     "price": "$17.03",
-    "tokenImage1": "https://assets.coingecko.com/coins/images/10365/small/near_icon.png?1601359077",
+    "tokenImage1": "https://images.ctfassets.net/nccdc912q1to/448ILDxFFmMbKR0aP3S4EC/9302bea9e99eb106889dea5fce647c35/near.png?h=250",
     "movement": "23.77",
-    "chain": "Ethereum",
-    "chainImage": "https://images.ctfassets.net/nccdc912q1to/448ILDxFFmMbKR0aP3S4EC/9302bea9e99eb106889dea5fce647c35/near.png?h=250"
+    "chain": "Near",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/near.png"
   },
   {
     "token": "Fantom",
