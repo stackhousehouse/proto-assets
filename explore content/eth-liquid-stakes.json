@@ -4,7 +4,7 @@
     "tokenImage1": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/tokens/AVAX.png",
     "apy": "7.00%",
     "chain": "Avalanche C",
-    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/avax.png"
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/avalanche.png"
   },
   {
     "token": "stETH",
