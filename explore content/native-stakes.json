@@ -1,0 +1,30 @@
+[
+  {
+    "token": "JUNO",
+    "tokenImage1": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/juno.png",
+    "apy": "105.71%",
+    "chain": "Juno",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/juno.png"
+  },
+  {
+    "token": "STARS",
+    "tokenImage1": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/stargaze.png",
+    "apy": "105.00%",
+    "chain": "Stargaze",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/stargaze.png"
+  },
+  {
+    "token": "OSMO",
+    "tokenImage1": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/tokens/OSMO.jpg",
+    "apy": "73.47%",
+    "chain": "Osmosis",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/osmosis.png"
+  },
+  {
+    "token": "AKT",
+    "tokenImage1": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/tokens/SKT.png",
+    "apy": "47.20%",
+    "chain": "Akash",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/akash.png"
+  }
+]
