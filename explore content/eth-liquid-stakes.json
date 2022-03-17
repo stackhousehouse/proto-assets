@@ -1,5 +1,12 @@
 [
   {
+    "token": "AVAX",
+    "tokenImage1": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/tokens/AVAX.png",
+    "apy": "7.00%",
+    "chain": "Avalanche C",
+    "chainImage": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/chains/avax.png"
+  },
+  {
     "token": "stETH",
     "tokenImage1": "https://raw.githubusercontent.com/stackhousehouse/proto-assets/main/tokens/stETH.png",
     "apy": "3.77%",
